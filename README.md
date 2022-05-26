@@ -30,7 +30,7 @@
 
 Для удобства навигации во время пользования ботом - реализованы команды [клавиатуры](https://github.com/Greenderix/taro_bot/blob/master/tarobot.py), чтобы пользователи не прописывали постоянно команды.
 
-<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><img src="https://i.imgur.com/LQfVa6z.gif"></a></p>
+<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><img src="https://i.imgur.com/IDtdq56.gif"></a></p>
 
 
 ## КОМАНДЫ ПОЛЬЗОВАТЕЛЕЙ
