@@ -2,7 +2,7 @@ import random
 
 import telebot
 from telebot import types
-from strings import card_desc, way, colors_array
+from infobase import card_desc, way, colors_array
 from settings import token
 
 bot = telebot.TeleBot(token)
