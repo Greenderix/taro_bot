@@ -3,11 +3,9 @@ import random
 import telebot
 from telebot import types
 from strings import card_desc, way, colors_array
-from token import token
+from settings import token
 
 bot = telebot.TeleBot(token)
-
-
 
 
 @bot.message_handler(commands=['start'])
