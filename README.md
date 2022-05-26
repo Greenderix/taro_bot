@@ -16,7 +16,8 @@
 В файлах [settings.py](https://github.com/Greenderix/taro_bot/blob/master/settings.py) хранится основная информация о вашем боте, а именно ``token``.
 
 В переменную ``token`` необходимо создать и записать токен телеграм бота, в которой у Вас будет находиться бот. Для этого нужно открыть [BotFather](https://t.me/BotFather), после чего написать ему, создать нового бота,
-после чего скопировать получившийся токен, который имеет следующий формат: ``5319994999:AAE_VQGYPKiizP9ADvGjIefM6ctMa_yGyXM``. 
+после чего скопировать получившийся токен, который имеет 
+следующий формат: ``5319994999:AAE_VQGYPKiizP9ADvGjIefM6ctMa_yGyXM``. 
 Получив токен, мы вставляем его уже в программу.
 
 ## ЭКСКУРСИЯ
@@ -29,7 +30,7 @@
 
 Для удобства навигации во время пользования ботом - реализованы команды [клавиатуры](https://github.com/Greenderix/taro_bot/blob/master/tarobot.py), чтобы пользователи не прописывали постоянно команды.
 
-<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><iframe src='https://gfycat.com/ifr/SilverShorttermCranefly' frameborder='0' scrolling='no' allowfullscreen width='640' height='788'></iframe></a></p>
+<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><img src="https://i.imgur.com/LQfVa6z.gif"></a></p>
 
 
 ## КОМАНДЫ ПОЛЬЗОВАТЕЛЕЙ
