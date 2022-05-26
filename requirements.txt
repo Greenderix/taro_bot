@@ -1,0 +1,14 @@
+cards==1.0.1
+certifi==2021.10.8
+charset-normalizer==2.0.12
+click==7.1.2
+colorama==0.4.4
+commonmark==0.9.1
+idna==3.3
+Pygments==2.12.0
+pyTelegramBotAPI==4.5.0
+requests==2.27.1
+rich==10.7.0
+tinydb==4.5.1
+typer==0.3.2
+urllib3==1.26.9

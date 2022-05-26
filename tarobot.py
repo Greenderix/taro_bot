@@ -10,7 +10,12 @@ bot = telebot.TeleBot(token)
 
 @bot.message_handler(commands=['start'])
 def start(message):
-    """"Запуск меню бота с вариацией выбора действий"""
+    """
+    Запуск меню бота с вариацией выбора действий
+    :param message: входящее сообщение
+    :return:
+    """
+
     markup = types.ReplyKeyboardMarkup(resize_keyboard=True)
     item1 = types.KeyboardButton('🔮 Аркан дня')
     item2 = types.KeyboardButton('🎱 Число дня')
