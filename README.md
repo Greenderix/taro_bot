@@ -29,7 +29,7 @@
 
 Для удобства навигации во время пользования ботом - реализованы команды [клавиатуры](https://github.com/Greenderix/taro_bot/blob/master/tarobot.py), чтобы пользователи не прописывали постоянно команды.
 
-<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><img src="https://i.imgur.com/dXkV3uW.gif"></a></p>
+<p align="center"><a href="https://vk.com/neluckoff" target="_blank"><img src="https://vk.com/doc126644931_472253083?hash=Kc7PaZLBGc74zzYnHQavuJ9ZYFZA52UUkwXus7TXVdL&dl=Nylct7ptKwiI7eOBKv25WLqBLcH5zoMxWrtLZcZiMj0"></a></p>
 
 ## КОМАНДЫ ПОЛЬЗОВАТЕЛЕЙ
 
