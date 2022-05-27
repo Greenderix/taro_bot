@@ -24,7 +24,7 @@ def start(message):
     # 🎱🔮📿🧿
 
     markup.add(item1, item2, item3, item4)
-    text = 'Hi, {0.first_name}! '
+    text = 'Приветствую тебя, {0.first_name}! '
     bot.send_message(message.chat.id, text.format(message.from_user), reply_markup=markup)
 
 
